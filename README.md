@@ -1,1 +1,1 @@
-# expt-3
+# exp3-bootstrap
